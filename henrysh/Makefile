@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -g -std=c99
-TARGET = orbitsh
+TARGET = henrysh
 SRC = src/main.c
 
 $(TARGET): $(SRC)
